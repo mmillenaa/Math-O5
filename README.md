@@ -33,31 +33,6 @@
 
 ---
 
-## 🏆 Licenses & Certifications
-
-| Certification | Institution | Date |
-| :--- | :--- | :--- |
-| **Software Architecture Foundations** | Full Cycle | Mar 2024 |
-| **Go (Basic) Certificate** | HackerRank | Jan 2024 |
-| **Software Testing Foundations and Practice** | Universidade de São Paulo | Aug 2023 |
-| **Java Concurrency and Multithreading in Practice** | IIHT Ltd | Nov 2021 |
-| **The Complete MySQL Developer Course** | IIHT Ltd | Nov 2021 |
-| **Machine Learning Foundations / Cybersecurity** | Coursera | 2020 / 2021 |
-
----
-
-## 💻 Featured Repositories
-
-* ⚙️ **[internal-relay-chat](https://github.com/Math-O5/internal-relay-chat)**: Chat server implemented in **C++** exploring advanced networking concepts, sockets, TCP, threads, and descriptors.
-* 🌐 **[spring5webapp](https://github.com/Math-O5/spring5webapp)** & **[be_java_port_w11_g07](https://github.com/Math-O5/be_java_port_w11_g07)**: Enterprise applications focused on the **Java** and Spring ecosystem.
-* 🚀 **[Go-studies](https://github.com/Math-O5/Go)**: Repository dedicated to studies and implementations focused on **Go**.
-* 🧠 **[competitive-programming](https://github.com/Math-O5/competitive-programming)**: Solutions for algorithms and data structures problems from platforms like UVA, Codeforces, OBI, and Advent of Code, developed in **C++**.
-* 🧬 **[Genetic-Travelling-Saleman-Problem](https://github.com/Math-O5/Genetic-Travelling-Saleman-Problem)**: Implementation of evolutionary and genetic algorithms in **C++** to solve the Traveling Salesman Problem (GTSP).
-* 📱 **[web](https://github.com/Math-O5/web)**: Projects focused on frontend and full-stack development exploring **React, Django, Angular, and Vue**.
-* 🔐 **[passport-google-verify-token](https://github.com/Math-O5/passport-google-verify-token)**: Authentication strategy in **TypeScript** using Google access tokens (OAuth 2.0 API).
-
----
-
 ## 📊 GitHub & StackOverflow Stats
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
